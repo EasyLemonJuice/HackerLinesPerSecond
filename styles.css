@@ -1,0 +1,33 @@
+.header {
+  color: Green;
+  background-color: None;
+  font-size:20px;
+  height:1px;
+}
+.title {
+  letter-spacing: 1px;
+  border: 1px solid DarkGreen;
+  color: Green;
+  background-color: Black;
+  font-size:25px;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  height:30px;
+}
+
+.box{
+  position:fixed;
+  background-color: None;
+  width:99%;
+  height:95%;
+}
+
+.text {
+  letter-spacing: 0.5px;
+  padding: 75px;
+  color: Green;
+  background-color: None;
+  font-size:20px;
+  text-align:left;
+}
